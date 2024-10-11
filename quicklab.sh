@@ -11,7 +11,7 @@ wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Automati
 
 wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/provider.tf
 
-wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/terraform.tfstate
+wget https://raw.githubusercontent.com/Ran-ga/Aplikasi-Login2/refs/heads/main/terraform.tfstate
 
 wget https://raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/variables.tf
 
